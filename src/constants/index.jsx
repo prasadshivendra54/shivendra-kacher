@@ -25,12 +25,12 @@ export const LINKS = [
 ];
 
 export const MARQUEE_TEXT =
-  "React, Next.js, Node, MongoDb, Tailwind, MySql, Javascript, Redis,";
+  ", React, Next.js, Node, Python, MongoDb, Tailwind, MySql, JavaScript, TypeScript, Redis";
 
 export const PROJECTS = [
   {
     id: 1,
-    title: "E-commerce Website",
+    title: "E-commerce Web App",
     description:
       "A full-featured e-commerce website built with React and Node.js.",
     imgSrc: project1,
@@ -50,7 +50,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website to showcase projects and skills.",
     imgSrc: project3,
-    link: "https://example.com/portfolio-website",
+    link: "https://shivendra-kacher.vercel.app/",
   },
   {
     id: 4,
@@ -104,50 +104,31 @@ export const ABOUT =
 
 export const EXPERIENCES = [
   {
-    company: "Google",
-    role: "Software Engineer",
-    year: "12/2023 - Present",
-    description:
-      "Developing and maintaining scalable web applications using modern technologies. Collaborating with cross-functional teams to design and implement new features. Enhancing application performance and ensuring high-quality code through rigorous testing and code reviews. Contributing to the continuous improvement of development processes and best practices.",
-  },
-  {
-    company: "Facebook",
+    company: "Retinodes Software Solutions",
     role: "Frontend Developer",
-    year: "01/2021 - 11/2023",
+    year: "05/2023 - 04/2024",
     description:
-      "Implemented user interfaces for web applications using React and Redux. Worked closely with designers to ensure seamless user experiences. Optimized components for maximum performance across a vast array of web-capable devices and browsers. Participated in code reviews and provided feedback to maintain high code quality.",
+      "Developed and maintained responsive user interfaces for web applications using modern front-end technologies. Collaborated with design teams to implement visually appealing and intuitive designs. Optimized web pages for speed and scalability, ensuring smooth performance across various devices and browsers. Worked closely with cross-functional teams to ensure the technical feasibility of UI/UX designs and delivered high-quality, efficient code.",
   },
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
   {
-    href: "https://x.com/",
-    icon: <FaFacebook fontSize={26} className="hover:opacity-80" />,
+    href: "https://www.linkedin.com/in/shivendra-kacher/",
+    icon: <FaLinkedin fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://x.com/",
-    icon: <FaDiscord fontSize={26} className="hover:opacity-80" />,
-  },
-  {
-    href: "https://x.com/",
-    icon: <FaInstagram fontSize={26} className="hover:opacity-80" />,
-  },
-  {
-    href: "https://x.com/",
-    icon: <FaXTwitter fontSize={26} className="hover:opacity-80" />,
-  },
-  {
-    href: "https://github.com/",
+    href: "https://github.com/prasadshivendra54",
     icon: <FaGithub fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://www.linkedin.com/",
-    icon: <FaLinkedin fontSize={26} className="hover:opacity-80" />,
+    href: "https://x.com/shivendradev54",
+    icon: <FaXTwitter fontSize={26} className="hover:opacity-80" />,
   },
 ];
 
 export const CONTACT = {
-  text: "I am always excited to collaborate on new and challenging projects. Whether you have a specific project in mind or just want to explore potential opportunities, Id love to hear from you. Lets combine our skills and expertise to create something amazing. Feel free to reach out to discuss how we can work together to achieve your goals.",
-  email: "hi@benson.langford.me",
-  phone: "+(221 - 7654567892)",
+  text: "I am always excited to collaborate on new and challenging projects. Whether you have a specific project in mind or just want to explore potential opportunities, I'd love to connect! Let's combine our skills and expertise to create something amazing. Feel free to reach out to discuss how we can work together to achieve your goals.",
+  email: "tshivendra07@gmail.com",
+  phone: "+(91 - 9685954454)",
 };
