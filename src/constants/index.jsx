@@ -106,7 +106,7 @@ export const EXPERIENCES = [
   {
     company: "Retinodes Software Solutions",
     role: "Frontend Developer",
-    year: "05/2023 - 04/2024",
+    year: "05/2023 - 07/2024",
     description:
       "Developed and maintained responsive user interfaces for web applications using modern front-end technologies. Collaborated with design teams to implement visually appealing and intuitive designs. Optimized web pages for speed and scalability, ensuring smooth performance across various devices and browsers. Worked closely with cross-functional teams to ensure the technical feasibility of UI/UX designs and delivered high-quality, efficient code.",
   },
